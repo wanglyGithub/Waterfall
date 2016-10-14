@@ -53,7 +53,7 @@ RecyclerView 的基本使用：
   
   
   实现效果图：
-  
+  ![](https://github.com/wanglyGithub/Waterfall/blob/master/image/device-2016-10-14-164450.png)
   
   
   
